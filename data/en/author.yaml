@@ -3,15 +3,12 @@ name: "Ait Bakas Abdessamad"
 nickname: "46dssamad"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/abdessamad.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "abdessamad.aitbakas@gmail.com"
-  phone: "06000000"
-  github:
-    icon: github
-    url: https://github.com/46dssamad
-    text: 46dssamad
+  github: 46dssamad
+
 
 # some summary about what you do
 summary:

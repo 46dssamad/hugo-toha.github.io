@@ -10,95 +10,73 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Master's in Computer Engineering and Systems Security
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2024(Ongoing)
   institution:
-    name: ABC University of Technology
-    url: "#"
-    logo: /images/sections/education/tech_college.png
+    name: Faculty of Sciences, Rabat
+    url: "https://www.um5.ac.ma/um5/"
+    logo: /images/sections/education/um55.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
+  #grade: #(optional)
     scale: CGPA
     achieved: 3.6
     outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: Professional Bachelor's in Cybersecurity and Cloud Technologies
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2023-2024
   institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/university.jpg
+    name: Higher School of Technology, Sidi bennour
+    url: "https://www.estsb.ucd.ac.ma/"
+    logo: /images/sections/education/ESTSB.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
+  #grade: #(optional)
     scale: CGPA
     achieved: 3.5
     outOf: 4
-  takenCourses: #(optional)
+  #takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #showGrades: true
+    #collapseAfter: 3
+    #courses:
+    
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  customSections: #(optional)
-    - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
-- name: Higher Secondary School Certificate
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
+  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  #- Duis sed massa feugiat, ornare justo et, aliquam est.
+  #- Pellentesque ut fringilla magna.
+  #customSections: #(optional)
+    #- name: Thesis
+      #content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #- name: Supervisor
+      #content: Fusce eu augue ut odio porttitor pulvinar.
+- name: BTS in Computer Systems and Networks 
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2021-2023
   institution:
-    name: MST College of Science
+    name: BTS, Salé
     url: "#"
-    logo: /images/sections/education/science_college.png
+    logo: /images/sections/education/BTS.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+  
+- name: Baccalaureate in Physical Sciences
   icon: fa-school
   timeframe: 2005-2010
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: Wellada High School, Salé
+

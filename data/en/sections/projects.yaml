@@ -12,54 +12,65 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
+- name: Internship
+  filter: "internship"
 - name: Academic
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
+
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: AlienVault OSSIM
+  logo: images/sections/projects/AlienVault.jpg
+  image: images/sections/projects/AlienVault.jpg
+  #role: Contributor
+  #timeline: "March 2018 - Present"
+  #repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Installed and configured a SIEM platform for log collection, normalization, vulnerability analysis, and threat detection using simulated attacks.
+  tags: ["internship"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: SDN Network Setup with OpenDaylight Controller
+  logo: /images/sections/projects/OpenDaylight_logo.png
+  image: /images/sections/projects/OpenDaylight_logo.png
+  #role: Developer
+  #timeline: "Jun 2018 - Present"
+  #repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: "SDN Network Setup with OpenDaylight Controller 
+Designed and configured a Software Defined Network using the OpenDaylight controller to separate control and data planes."
+  tags: ["academic"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
+- name: Distributed System for Smart Agriculture
+  #role: Team Lead
+  #timeline: "Jan 2017 - Nov 2017"
+  logo: /images/sections/skills/java.png
+  image: /images/sections/skills/java.png
+  repo: https://github.com/46dssamad/distributed-system-kafka
+  #url: "https://www.example.com"
   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
   tags: ["academic","iot"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+- name: LoraWan with NS3
+  logo: /images/sections/projects/ns-3.png
+  image: /images/sections/projects/ns-3.png
+  #role: Nothing
+  #timeline: "Oct 2019 - Dec 2019"
+  #repo: https://github.com/kelseyhightower/nocode
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: "Simulation of a LoRaWAN Wireless Network in NS-3
+Simulated a low-power wide-area network using the NS-3 simulator to evaluate performance and coverage."
+  tags: ["academic"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Secure Network Simulation with VPN, IPSec, and FortiGate Firewall on EVE-NG
+  logo: /images/sections/projects/EVE-NG.png
+  image: /images/sections/projects/EVE-NG.png
+  summary: "Built a secure enterprise network environment using virtualized firewalls, VPN tunnels, and IPSec protocols."
+  tags: ["academic"]
+
+- name: IoT-Based Smart Irrigation System (Python, MQTT, CoAP)
+  logo: /images/sections/projects/Python-Logo.png
+  image: /images/sections/projects/Python-Logo.png
+  repo: https://github.com/46dssamad/iot-smart-irrigation-system
+  summary: Simulated a smart irrigation platform using virtual sensors, MQTT broker, and CoAP protocol to automate watering based on environmental conditions.
+  tags: ["academic"]
